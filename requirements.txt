@@ -1,4 +1,4 @@
-nose
+cd nose
 rednose
 cryptography
 pyasn1
